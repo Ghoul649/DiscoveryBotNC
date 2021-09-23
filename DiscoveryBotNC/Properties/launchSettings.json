@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscoveryBotNC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DiscoveryBotNC_Environment": "Development"
+      }
+    }
+  }
+}
